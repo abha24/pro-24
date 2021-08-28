@@ -33,5 +33,4 @@ function draw(){
     iron.display()  
     hammer.display();
 
- drawSprites();
 }
